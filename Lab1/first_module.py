@@ -1,4 +1,4 @@
-from Lab1.dicts import table, reverse_table
+from dicts import table, reverse_table
 import os
 
 def caesar_cipher(text, shift):
